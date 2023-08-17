@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"sd-0x-mysql-all-for-one","dependencies":{"eslint-config-trybe-backend":{"version":"1.0.4"},"mysql2":{"version":"2.1.0"},"sequelize":{"version":"6.2.0"}}}
